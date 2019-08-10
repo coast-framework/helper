@@ -1,5 +1,5 @@
 # helper
-Helper functions for the pragmatic clojure writer
+Helper functions for the pragmatic clojurian
 
 ## Installation
 
