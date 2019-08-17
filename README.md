@@ -3,11 +3,10 @@ Helper functions for the pragmatic clojurian
 
 ## Installation
 
-Make your `deps.edn` look like this:
+Add this to your [deps.edn](https://clojure.org/guides/deps_and_cli)
 
 ```clojure
-{:deps {coast-framework/helper {:git/url "https://github.com/coast-framework/helper"
-                                :sha "04109855b5d7a7725c84a55eee4c18b6f9281cfa"}}}
+coast-framework/helper {:mvn/version "1.0.0"}
 ```
 
 ## Usage
